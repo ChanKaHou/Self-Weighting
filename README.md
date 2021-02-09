@@ -1,7 +1,9 @@
 # Self-Weighting
 
 Self-Weighting program source code
+
 for research article "Self-Weighting Improve Sentiment Analysis in NLP Models"
+
 Version 1.0
 (c) Copyright 2021 Ka-Hou Chan <chankahou (at) ipm.edu.mo>
 The SinPN program source code is free software: you can redistribute
